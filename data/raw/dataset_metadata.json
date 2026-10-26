@@ -1,0 +1,22 @@
+{
+  "dataset_name": "Enterprise Profitability Decline Synthetic Benchmark",
+  "quarters_count": 12,
+  "date_range": "2023-Q1 to 2025-Q4",
+  "crisis_window": [
+    "2025-Q2",
+    "2025-Q3",
+    "2025-Q4"
+  ],
+  "departments": [
+    "Marketing",
+    "HR",
+    "Operations",
+    "Finance"
+  ],
+  "injected_mechanisms": [
+    "Over-optimistic top-of-funnel ad spend yielding low-intent customers with steep CAC and high 90-day churn",
+    "Hidden operational friction: skilled attrition replaced with massive overtime and contractors, reducing overall labor efficiency",
+    "Supply chain expedites & inventory bloat: excess slow-moving stock inflating carrying costs + freight surcharges",
+    "Siloed departmental reporting: each unit claimed 'targets achieved' (e.g. leads hit, headcount hit, units made) while joint unit economics broke down"
+  ]
+}
